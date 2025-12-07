@@ -1,4 +1,5 @@
 [//]: # (Learning Roadmap)
+<img width="1150" height="1308" alt="image" src="https://github.com/user-attachments/assets/20a3b14f-8003-47cd-9957-121e9353960b" />
 
 # FastAPI Learning Roadmap
 
